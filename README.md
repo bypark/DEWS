@@ -1,7 +1,7 @@
 # DEWS
 DEWS (DEep White matter hyperintensity Segmentation framework) \
-: A fully automated pipeline for detecting small deep white matter hyperintensities in migraineurs \
-* This site is still in preparation and detailed documentation is being prepared \
+: A fully automated pipeline for detecting small deep white matter hyperintensities in migraineurs 
+* This site is still in preparation and detailed documentation is being prepared 
 
 # Prerequisite
 DEWS requries MATLAB in linux \
