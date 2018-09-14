@@ -23,5 +23,5 @@ The required versions are MATLAB 2016b, AFNI after 1998, and FSL 5.0.8
 A total of 5 test data (T1, FLAIR, ground truth) are released
 
 # Websites
-http://by9433.wixsite.com/boyongpark \
-https://mipskku.wixsite.com/mipl
+**Personal: ** http://by9433.wixsite.com/boyongpark \
+**LAB:      ** https://mipskku.wixsite.com/mipl
