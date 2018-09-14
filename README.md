@@ -24,4 +24,4 @@ A total of 5 test data (T1, FLAIR, ground truth) are released
 
 # Websites
 **Personal: ** http://by9433.wixsite.com/boyongpark \
-**LAB:      ** https://mipskku.wixsite.com/mipl
+**LAB: **      https://mipskku.wixsite.com/mipl
