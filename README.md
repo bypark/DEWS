@@ -2,6 +2,7 @@
 DEWS (DEep White matter hyperintensity Segmentation framework) \
 : A fully automated pipeline for detecting small deep white matter hyperintensities in migraineurs 
 * **Password for the .zip files:** skku_mipl
+If you encounter an error while opening the source code, please directly contact to the author: by9433@gmail.com
 
 * **Please cite the paper if you use this code** \
 *B.-y. Park and M. J. Lee et al.* DEWS (DEep White matter hyperintensity Segmentation framework): A fully automated pipeline for detecting small deep white matter hyperintensities in migraineurs. *NeuroImage: Clinical* 18:638-647 (2018). \
